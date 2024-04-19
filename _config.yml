@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Department of Philosophy, College of Humanities, Tongji University; mainly specialized in Neo-Confucianism in Song-Ming Dynasty, the intellectual history of the Ming and Qing Dynasties and modern times, and bibliography."
   location         : "Shanghai,China"
-  employer         : "Tongji University #https://en.tongji.edu.cn/p/#/" 
+  employer         : "Tongji University" 
   uri              : # 
   email            : "liuhao1106@tongji.edu.cn" 
 
@@ -35,14 +35,14 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0003-3030-8495"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
