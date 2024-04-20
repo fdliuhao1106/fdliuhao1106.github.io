@@ -10,7 +10,6 @@ author_profile: true
 1. Liu Hao, *A Study of Wang Chuanshan's Thought on "Sheng"*, China Social Science Press, 2024.（forthcoming）《王船山“生”的思想研究》，中国社会科学出版社，2024年，即出。
 ### B.Articles
 1. The Publication Process of Lu Qingxian Gong's Diary as Seen in the Manuscript of Liu Shufang's Diary--A Comparison with the Surviving Printed Books. *Bibliography*，2024，（forthcoming）《稿本〈柳树芳日记〉所见〈陆清献公日记〉出版过程——兼与遗存出版实物的比较》，《文献》，2024年，待刊。
-
 ## Selected Publications
 1.	Dao:the Combination of Li and Qi——The Classical Interpretation Background of Zhuxi's Theory of Li and Qi and Its Influence. *Philosophical Research*, No. 7, 2023. 《道兼理气：朱子学理气论的经典诠释背景及其影响》，《哲学研究》，2023年第7期
 2. The Transcripts of the Sanyu Tang Bibliography and Lu Longqi's Reading History. *Classical Bibliography Research*, vol. 26, 2023.《书生的旧业：<三鱼堂书目>抄本与陆陇其的书籍世界》，《古典文献研究》2023年第26卷上
