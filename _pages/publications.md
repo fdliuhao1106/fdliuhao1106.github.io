@@ -7,11 +7,14 @@ author_profile: true
 
 ## Forthcoming
 ### A.Monograpgh
+
 1. Liu Hao, *A Study of Wang Chuanshan's Thought on "Sheng"*, China Social Science Press, 2024,（forthcoming）
 ### B.Articles
+
 1. The Publication Process of Lu Qingxian Gong's Diary as Seen in the Manuscript of Liu Shufang's Diary--A Comparison with the Surviving Printed Books. *Bibliography*，2024，（forthcoming）《稿本《柳树芳日记》所见《陆清献公日记》出版过程——兼与遗存出版实物的比较》，《文献》，2024年，待刊。
 
 ## Selected Publications
+
 1. Dao:the Combination of Li and Qi——The Classical Interpretation Background of Zhuxi's Theory of Li and Qi and Its Influence. *Philosophical Research*, No. 7, 2023. 《道兼理气：朱子学理气论的经典诠释背景及其影响》，《哲学研究》，2023年第7期
 2. The Transcripts of the Sanyu Tang Bibliography and Lu Longqi's Reading History. *Classical Bibliography Research*, vol. 26, 2023.《书生的旧业：<三鱼堂书目>抄本与陆陇其的书籍世界》，《古典文献研究》2023年第26卷上
 3. The Double Vision of the Metaphysical Thing：Li-Based Theory and Qi-based theory Under the Classical interpretation. *Beida Journal of Philosophy*. 2023, No. 45.《“形而上者”的双重视野：经典诠释下的理本与气本》，《哲学门》，2023年
