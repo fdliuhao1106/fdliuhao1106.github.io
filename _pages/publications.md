@@ -22,7 +22,7 @@ author_profile: true
 1. On Wang Yangming’s Theory of “Liangzhi as Rational Entity”. *Academic Monthly*, No. 11, 2019.《论阳明学的良知实体化》，《学术月刊》，2019年第11期
 2. A Model of Neo-Confucianism Studies in Mainland China in the Past Forty Years - Professor Chen Lai's Study of Neo-Confucianism Studies. *Guizhou Literature and History Series*, No. 1, 2019.《四十年来中国大陆宋明理学研究的典范——陈来教授的宋明理学研究》，《贵州文史丛刊》，2019年第1期
 ### 2018
-1. A Literature Investigation on the Works Of Wang Yangming——On the Newly Discovered Three Volumes Works and the Works Edited by Huang Wan. *History of Chinese Philosophy*, 2018, No. 3.《关于<阳明先生文录>的文献学新考察》，《中国哲学史》，2018年第3期
+1. A Bibliographical Investigation on the Works Of Wang Yangming——On the Newly Discovered Three Volumes Works and the Works Edited by Huang Wan. *History of Chinese Philosophy*, 2018, No. 3.《关于<阳明先生文录>的文献学新考察》，《中国哲学史》，2018年第3期
 2.  Retrospect and Prospect of the Study of Neo-Confucianism in the Song and Ming Dynasties in the Past Decade——Taking the Studies of Zhu Xi and Wang Yangming as Examples. *Confucius Studies*, No. 4, 2018.十年来宋明理学研究的回顾与展望——以朱子学和阳明学为中心》，《孔子研究》，2018年第4期
 ### 2017
 1. A Reconstruction of the Theory of the Original Goodness of Human Nature. *Journal of Hangzhou Normal University (Social Science Edition)*, No. 1, 2017.《气论视野下的性善论重构——基于王船山“生”的思想之考察》，《杭州师范大学学报（社会科学版）》2017年第1期
