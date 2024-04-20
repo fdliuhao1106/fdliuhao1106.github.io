@@ -11,7 +11,7 @@ author_profile: true
 ### B.Articles
 1. The Publication Process of Lu Qingxian Gong's Diary as Seen in the Manuscript of Liu Shufang's Diary--A Comparison with the Surviving Printed Books. *Bibliography*，2024，（forthcoming）《稿本〈柳树芳日记〉所见〈陆清献公日记〉出版过程——兼与遗存出版实物的比较》，《文献》，2024年，待刊。
 ## Selected Publications
-1. Dao:the Combination of Li and Qi——The Classical Interpretation Background of Zhuxi's Theory of Li and Qi and Its Influence. *Philosophical Research*, No. 7, 2023. 《道兼理气：朱子学理气论的经典诠释背景及其影响》，《哲学研究》，2023年第7期. [pdf](https://github.com/fdliuhao1106/fdliuhao1106.github.io/blob/master/files/2023a.pdf)
+1. Dao:the Combination of Li and Qi——The Classical Interpretation Background of Zhuxi's Theory of Li and Qi and Its Influence. *Philosophical Research*, No. 7, 2023. 《道兼理气：朱子学理气论的经典诠释背景及其影响》，《哲学研究》，2023年第7期. [pdf](https://fdliuhao1106.github.io/blob/master/files/2023a.pdf)
 2. The Transcripts of the Sanyu Tang Bibliography and Lu Longqi's Reading History. *Classical Bibliography Research*, vol. 26, 2023.《书生的旧业：<三鱼堂书目>抄本与陆陇其的书籍世界》，《古典文献研究》2023年第26卷上
 3. The Double Vision of the Metaphysical Thing：Li-Based Theory and Qi-based theory Under the Classical interpretation. *Beida Journal of Philosophy*. 2023, No. 45.《“形而上者”的双重视野：经典诠释下的理本与气本》，《哲学门》，2023年
 4. The New Trends of Revaluation of sheng zhi wei xing in Middle and Late Ming Dynasty. *Zhejiang Social Science*, No. 7, 2020.《中晚明时代“生之谓性”解释的新动向——以阳明学为中心》，《浙江社会科学》，2020年第7期
