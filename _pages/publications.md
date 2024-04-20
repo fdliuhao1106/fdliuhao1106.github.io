@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Forthcoming
-### A.Monograpghy
+### A.Monography
 1. Liu Hao, *A Study of Wang Chuanshan's Thought on "Sheng"*, China Social Science Press, 2024.（forthcoming）《王船山“生”的思想研究》，中国社会科学出版社，2024年，即出。
 ### B.Articles
 1. The Publication Process of Lu Qingxian Gong's Diary as Seen in the Manuscript of Liu Shufang's Diary--A Comparison with the Surviving Printed Books. *Bibliography*，2024，（forthcoming）《稿本〈柳树芳日记〉所见〈陆清献公日记〉出版过程——兼与遗存出版实物的比较》，《文献》，2024年，待刊。
