@@ -1,8 +1,1 @@
----
-permalink: /chinese/
-title: "chinese"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
+## Chinese
