@@ -1,6 +1,6 @@
 ---
 permalink: /chinese/
-title: "Chinese"
+title: "中文简历"
 author_profile: true
 redirect_from: 
   - /md/
