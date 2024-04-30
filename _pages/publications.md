@@ -12,7 +12,7 @@ author_profile: true
 ### Forthcoming
 1. The Publication Process of Lu Qingxian Gong's Diary as Seen in the Manuscript of Liu Shufang's Diary--A Comparison with the Surviving Printed Books. *Bibliography*，2024，（forthcoming）《稿本〈柳树芳日记〉所见〈陆清献公日记〉出版过程——兼与遗存出版实物的比较》，《文献》，2024年，待刊。
 ### 2023
-1. Dao:the Combination of Li and Qi——The Classical Interpretation Background of Zhuxi's Theory of Li and Qi and Its Influence. *Philosophical Research*, No. 7, 2023. 《道兼理气：朱子学理气论的经典诠释背景及其影响》，《哲学研究》，2023年第7期. [pdf](https://fdliuhao1106.github.io/files/2023a.pdf)
+1. Dao:the Combination of Li and Qi——The Classical Interpretation Background of Zhuxi's Theory of Li and Qi and Its Influence. *Philosophical Research*, No. 7, 2023. 《道兼理气：朱子学理气论的经典诠释背景及其影响》，《哲学研究》，2023年第7期.[pdf](https://fdliuhao1106.github.io/files/2023a.pdf)
 2. The Transcripts of the Sanyu Tang Bibliography and Lu Longqi's Reading History. *Classical Bibliography Research*, vol. 26, 2023.《书生的旧业：<三鱼堂书目>抄本与陆陇其的书籍世界》，《古典文献研究》2023年第26卷上
 3. The Double Vision of the Metaphysical Thing：Li-Based Theory and Qi-based theory Under the Classical interpretation. *Beida Journal of Philosophy*. 2023, No. 45.《“形而上者”的双重视野：经典诠释下的理本与气本》，《哲学门》，2023年
 ### 2020
@@ -22,7 +22,7 @@ author_profile: true
 1. On Wang Yangming’s Theory of “Liangzhi as Rational Entity”. *Academic Monthly*, No. 11, 2019.《论阳明学的良知实体化》，《学术月刊》，2019年第11期
 2. A Model of Neo-Confucianism Studies in Mainland China in the Past Forty Years - Professor Chen Lai's Study of Neo-Confucianism Studies. *Guizhou Literature and History Series*, No. 1, 2019.《四十年来中国大陆宋明理学研究的典范——陈来教授的宋明理学研究》，《贵州文史丛刊》，2019年第1期
 ### 2018
-1. A Bibliographical Investigation on the Works Of Wang Yangming——On the Newly Discovered Three Volumes Works and the Works Edited by Huang Wan. *History of Chinese Philosophy*, 2018, No. 3.《关于<阳明先生文录>的文献学新考察》，《中国哲学史》，2018年第3期. [pdf](https://fdliuhao1106.github.io/files/2018a.pdf)
+1. A Bibliographical Investigation on the Works Of Wang Yangming——On the Newly Discovered Three Volumes Works and the Works Edited by Huang Wan. *History of Chinese Philosophy*, 2018, No. 3.《关于<阳明先生文录>的文献学新考察》,《中国哲学史》,2018年第3期.[pdf](https://fdliuhao1106.github.io/files/2018a.pdf)
 2. Retrospect and Prospect of the Study of Neo-Confucianism in the Song and Ming Dynasties in the Past Decade——Taking the Studies of Zhu Xi and Wang Yangming as Examples. *Confucius Studies*, No. 4, 2018.十年来宋明理学研究的回顾与展望——以朱子学和阳明学为中心》，《孔子研究》，2018年第4期
 ### 2017
 1. A Reconstruction of the Theory of the Original Goodness of Human Nature. *Journal of Hangzhou Normal University (Social Science Edition)*, No. 1, 2017.《气论视野下的性善论重构——基于王船山“生”的思想之考察》，《杭州师范大学学报（社会科学版）》2017年第1期
