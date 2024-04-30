@@ -12,18 +12,20 @@ redirect_from:
 **2021—  Assistant Professor**  
 **Department of Philosophy**  
 **School of Humanities, Tongji University**  
-Room 413, Yuntong Building
+Room 413, Yuntong Building  
 Yangpu District, Shanghai, P.R. China, 200092   
 Email: liuhao1106@tongji.edu.cn
 
 ## Education
-* Ph.D. in Chinese Philosophy, Tsinghua University, Beijing,China, 2021
-* M.S. in Chinsese Philosophy, Fudan University, Shanghai,China, 2017
-* B.S. in Philosophy, Fudan University, Shanghai, China, 2014
+Ph.D.（2021） in Chinese Philosophy   Tsinghua University， Beijing，  China  
+M.S. （2017） in Chinsese Philosophy  Fudan University，    Shanghai， China  
+B.S. （2010） in Philosophy           Fudan University，    Shanghai， China 
 
 ## Work Experience
 **2023-     Assistant Professor**  
-Department of Philosophy,School of Humanities, Tongji University 
+Department of Philosophy,School of Humanities, Tongji University
+
+## Visiting Experience
 **2019-2020 Visiting Scholar**  
 Harvard University, Cambridge, U.S.A
 
@@ -31,7 +33,7 @@ Harvard University, Cambridge, U.S.A
 Neo-Confucianism, Intellectual History of Ancient China, Book History and Bibliography of Late Imperial China
 
 ## Field of Specialization
-1.Ming and Qing(1368-1911) literati diaries, annals, letters and manuscripts, focusing on the combination of history of reading, history of books and history of thought.
+1.Ming and Qing(1368-1911) literati diaries, annals, letters and manuscripts, focusing on book history.   
 2.Study of Confucianism and literati groups in Lower Yangtze River Delta in modern times.
 
 ## Selected Publications
@@ -50,7 +52,7 @@ Neo-Confucianism, Intellectual History of Ancient China, Book History and Biblio
 10. On Wang Yangming’s Theory of “Liangzhi as Rational Entity”. Academic Monthly, No. 11, 2019.《论阳明学的良知实体化》，《学术月刊》，2019年第11期
 11. A Model of Neo-Confucianism Studies in Mainland China in the Past Forty Years - Professor Chen Lai's Study of Neo-Confucianism Studies. Guizhou Literature and History Series, No. 1, 2019.《四十年来中国大陆宋明理学研究的典范——陈来教授的宋明理学研究》，《贵州文史丛刊》，2019年第1期
 
-## Funded Projects
+## Grants and Funded Projects
 1.	2022 National Social Science Foundation of China Late Subsidised Outstanding Doctoral Dissertation Publication Project (Completed in March 2024)
 2.	2022 Shanghai Pujiang Project "Study of Confucianism in Modern Shanghai under the Perspective of the Convergence of East and West"
 3.	2022 Lu Longqi and the Changes of Jiangnan Confucianism in Modern Shanghai, High-level Research Project of Tongji University
