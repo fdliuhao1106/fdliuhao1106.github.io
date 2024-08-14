@@ -11,6 +11,7 @@ author_profile: true
 ## Articles and Book Chapters
 ### Forthcoming
 1. The Publication Process of Lu Qingxian Gong's Diary as Seen in the Manuscript of Liu Shufang's Diary--A Comparison with the Surviving Printed Books. *Bibliography*，2024，（forthcoming）《稿本〈柳树芳日记〉所见〈陆清献公日记〉出版过程——兼与遗存出版实物的比较》，《文献》，2024年，待刊。
+---
 ### 2023
 1. Dao:the Combination of Li and Qi——The Classical Interpretation Background of Zhuxi's Theory of Li and Qi and Its Influence. *Philosophical Research*, No. 7, 2023. 《道兼理气：朱子学理气论的经典诠释背景及其影响》，《哲学研究》，2023年第7期.[pdf](https://fdliuhao1106.github.io/files/2023a.pdf)
 2. The Transcripts of the Sanyu Tang Bibliography and Lu Longqi's Reading History. *Classical Bibliography Research*, vol. 26, 2023.《书生的旧业：<三鱼堂书目>抄本与陆陇其的书籍世界》，《古典文献研究》2023年第26卷上
