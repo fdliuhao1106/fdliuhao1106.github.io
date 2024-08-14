@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Undergraduate Courses
-
 ### Philosophy Major Courses
 1. Introduction to Chinese Philosophy (2023-)
 2. History of Chinese Philosophy II (2022-)
