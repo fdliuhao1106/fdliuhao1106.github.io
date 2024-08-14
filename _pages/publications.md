@@ -16,6 +16,7 @@ author_profile: true
 1. Dao:the Combination of Li and Qi——The Classical Interpretation Background of Zhuxi's Theory of Li and Qi and Its Influence. *Philosophical Research*, No. 7, 2023. 《道兼理气：朱子学理气论的经典诠释背景及其影响》，《哲学研究》，2023年第7期.[pdf](https://fdliuhao1106.github.io/files/2023a.pdf)
 2. The Transcripts of the Sanyu Tang Bibliography and Lu Longqi's Reading History. *Classical Bibliography Research*, vol. 26, 2023.《书生的旧业：<三鱼堂书目>抄本与陆陇其的书籍世界》，《古典文献研究》2023年第26卷上
 3. The Double Vision of the Metaphysical Thing：Li-Based Theory and Qi-based theory Under the Classical interpretation. *Beida Journal of Philosophy*. 2023, No. 45.《“形而上者”的双重视野：经典诠释下的理本与气本》，《哲学门》，2023年
+4. The Original Oneness and the Entity: A New Exploration of Luo Qinshun's "liqiyiwu" ，*Confucianism and Classics Review*，2023.《本一与实体——罗钦顺“理气一物”说新探究》，《儒学与古典学评论》，2023年
 ### 2020
 1. The New Trends of Revaluation of sheng zhi wei xing in Middle and Late Ming Dynasty. *Zhejiang Social Science*, No. 7, 2020.《中晚明时代“生之谓性”解释的新动向——以阳明学为中心》，《浙江社会科学》，2020年第7期
 2. A New Understanding of the Li-Qi Theoty in the Ming Dynasty. *History of Chinese Philosophy*, No. 5, 2020.《理气虽不相离，亦不曾相杂——明代朱子学理气论的一项新了解》，《中国哲学史》，2020年第5期
