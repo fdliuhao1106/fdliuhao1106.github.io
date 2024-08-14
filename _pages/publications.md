@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## Books
-### Forthcoming
+## 2024
 1. Liu Hao, *A Study of Wang Chuanshan's Thought on "Sheng"*, China Social Science Press, 2024.（forthcoming）《王船山“生”的思想研究》，中国社会科学出版社，2024年，即出。
 ## Articles and Book Chapters
-### Forthcoming
+## 2024
 1. The Publication Process of Lu Qingxian Gong's Diary as Seen in the Manuscript of Liu Shufang's Diary--A Comparison with the Surviving Printed Books. *Bibliography*，2024，（forthcoming）《稿本〈柳树芳日记〉所见〈陆清献公日记〉出版过程——兼与遗存出版实物的比较》，《文献》，2024年，待刊。
 ## 2023
 1. Dao:the Combination of Li and Qi——The Classical Interpretation Background of Zhuxi's Theory of Li and Qi and Its Influence. *Philosophical Research*, No. 7, 2023. 《道兼理气：朱子学理气论的经典诠释背景及其影响》，《哲学研究》，2023年第7期.[pdf](https://fdliuhao1106.github.io/files/2023a.pdf)
