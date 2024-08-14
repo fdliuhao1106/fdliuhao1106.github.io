@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Books
-## 2024
 1. Liu Hao, *A Study of Wang Chuanshan's Thought on "Sheng"*, China Social Science Press, 2024.（forthcoming）《王船山“生”的思想研究》，中国社会科学出版社，2024年，即出。
 ## Articles and Book Chapters
 ## 2024
