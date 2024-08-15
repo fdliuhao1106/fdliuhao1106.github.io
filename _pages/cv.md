@@ -39,6 +39,7 @@ Neo-Confucianism, Intellectual History of Ancient China, Book History and Biblio
 ## Selected Publications
 ### A.	Monograph
 1. Liu Hao, A Study of Wang Chuanshan's Thought on "Sheng", China Social Science Press, 2024,（forthcoming）.
+  
 ### B.	Articles
 1. The Publication Process of Lu Qingxian Gong's Diary as Seen in the Manuscript of Liu Shufang's Diary--A Comparison with the Surviving Printed Books. Literature，2024，（forthcoming）《稿本《柳树芳日记》所见《陆清献公日记》出版过程——兼与遗存出版实物的比较》，《文献》，2024年，待刊。
 2. 	Dao:the Combination of Li and Qi——The Classical Interpretation Background of Zhuxi's Theory of Li and Qi and Its Influence. Philosophical Research, No. 7, 2023. 《道兼理气：朱子学理气论的经典诠释背景及其影响》，《哲学研究》，2023年第7期
