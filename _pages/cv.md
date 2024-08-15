@@ -17,12 +17,12 @@ Yangpu District, Shanghai, P.R. China, 200092
 Email: liuhao1106@tongji.edu.cn
 
 ## Education
-Ph.D.（2021） in Chinese Philosophy   Tsinghua University， Beijing，  China  
-M.S. （2017） in Chinsese Philosophy  Fudan University，    Shanghai， China  
-B.S. （2010） in Philosophy           Fudan University，    Shanghai， China 
+Ph.D.（2021） in Chinese Philosophy,  Tsinghua University，Beijing，China  
+M.S. （2017） in Chinsese Philosophy,  Fudan University, Shanghai，China  
+B.S. （2010） in Philosophy, Fudan University, Shanghai，China 
 
 ## Work Experience
-**2023-     Assistant Professor**  
+**2021- Assistant Professor**  
 Department of Philosophy,School of Humanities, Tongji University
 
 ## Visiting Experience
