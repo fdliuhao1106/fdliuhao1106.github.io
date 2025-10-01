@@ -7,11 +7,12 @@ author_profile: true
 
 ## Books
 ### 2024
-1. Liu Hao, *A Study of Wang Chuanshan's Thought on "Sheng"*, China Social Science Press, 2024.（forthcoming）《王船山“生”的思想研究》，中国社会科学出版社，2024年，即出。
+1. Liu Hao, *A Study of Wang Chuanshan's Thought on "Sheng"*, China Social Science Press, 2024.王船山“生”的思想研究》，中国社会科学出版社，2024年6月。
 
 ## Articles and Book Chapters
 ### 2025
 1. Framework of Principles and Sequence of Cultivation:The Intellectual Structure and Its Tension in the Classified Anthologies of ZhuXi’s Thought,Journal of Tongji University (Social Science Edition),Vol.36 No.4, Aug.2025《道理规模与工夫次第:朱子学类编文本的思想结构及其张力》，《同济大学学报（社会科学版）》，2025年第4期。
+
 ### 2024
 1. The Publication Process of Lu Qingxian Gong's Diary as Seen in the Manuscript of Liu Shufang's Diary--A Comparison with the Surviving Printed Books.Literature，No. 5, 2024，《稿本《柳树芳日记》所见《陆清献公日记》出版过程——兼与现存出版实物的比较》，《文献》，2024年第5期
    
